@@ -1,0 +1,17 @@
+condition,reference,pairs,mean_aurc_reduction,positive_pairs,equal_pairs,wilcoxon_statistic,one_sided_p_value
+clean,confidence,9,0.0,0,9,22.5,0.5
+clean,negative_entropy,9,-0.00020798867925208968,4,0,13.0,0.875
+clean,probability_margin,9,0.0003878340520815435,5,0,33.0,0.125
+clean,learned_evidence,9,0.01621448685650784,7,0,38.0,0.037109375
+snr_6,confidence,9,0.0,0,9,22.5,0.5
+snr_6,negative_entropy,9,-0.00036814877392285554,3,0,11.0,0.91796875
+snr_6,probability_margin,9,0.0004105098594791335,6,0,33.0,0.125
+snr_6,learned_evidence,9,0.010670810383064225,6,0,36.0,0.064453125
+snr_0,confidence,9,0.0,0,9,22.5,0.5
+snr_0,negative_entropy,9,-0.0005133496132662776,2,0,9.0,0.951171875
+snr_0,probability_margin,9,0.0008430536937787456,8,0,43.0,0.005859375
+snr_0,learned_evidence,9,0.017686841554163668,5,0,34.0,0.1015625
+snr_-6,confidence,9,0.03649878353072295,8,0,40.0,0.01953125
+snr_-6,negative_entropy,9,0.03237478832594963,6,0,36.0,0.064453125
+snr_-6,probability_margin,9,0.039923002633116,8,0,40.0,0.01953125
+snr_-6,learned_evidence,9,0.0,0,9,22.5,0.5

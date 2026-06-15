@@ -1,0 +1,16 @@
+{
+  "dataset": "CWRU",
+  "device": "cuda",
+  "sample_count": 1000,
+  "single_model_parameters": 185258,
+  "deep_ensemble_parameters": 555774,
+  "ensemble_members": 3,
+  "confidence_seconds_mean": 0.38494866666345234,
+  "physical_evidence_seconds_mean": 1.5346665333296794,
+  "deep_ensemble_seconds_mean": 1.0408745666694206,
+  "confidence_ms_per_sample": 0.28183189997798763,
+  "physical_evidence_ms_per_sample": 1.4836307000077795,
+  "deep_ensemble_ms_per_sample": 0.9805186000012327,
+  "physical_over_confidence": 5.264239783089344,
+  "ensemble_over_confidence": 3.479090195530796
+}
